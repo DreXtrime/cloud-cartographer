@@ -74,7 +74,7 @@ consumes more resources than the application it monitors. Prometheus, Loki, and 
 RAM, which drives node sizing decisions more than the app does.
 
 **Cloud costs** - at production scale (1000 concurrent users, HA configuration, 1 year log retention), the estimated
-monthly cost is ~$726 on AWS and ~$675 on GCP. The biggest cost driver is not compute but infrastructure overhead -
+monthly cost is ~$726 on AWS and ~$637 on GCP. The biggest cost driver is not compute but infrastructure overhead -
 managed Kubernetes control planes, NAT Gateways, HA databases, and persistent storage for the monitoring stack.
 
 **AWS vs GCP** - AWS wins on block storage pricing and database cost. GCP wins on NAT Gateway cost, Kubernetes tooling
