@@ -21,6 +21,13 @@ The point was to get real numbers before making any cloud decisions, not estimat
 From there I mapped the stack to equivalent services on both AWS and GCP, built out a full monthly cost breakdown across
 test, prod, and shared environments, and compared where each provider wins and loses.
 
+| Report                    | Wiki                                                                                      |
+|---------------------------|-------------------------------------------------------------------------------------------|
+| Infrastructure Analysis   | [here](https://github.com/DreXtrime/cloud-cartographer/wiki/1.-Infrastructure-Analysis)   |
+| Cloud Provider Comparison | [here](https://github.com/DreXtrime/cloud-cartographer/wiki/2.-Cloud-Provided-Comparison) |
+| Migration Cost Analysis   | [here](https://github.com/DreXtrime/cloud-cartographer/wiki/3.-Migration-Cost-Analysis)   |
+| Risk Assessment           | [here](https://github.com/DreXtrime/cloud-cartographer/wiki/4.-Risk-Assessment)           |
+
 ---
 
 ## What I found
