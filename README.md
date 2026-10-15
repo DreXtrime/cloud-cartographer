@@ -4,7 +4,7 @@ A cloud migration readiness study for a small application stack. The goal was to
 locally, find where it actually breaks, measure real resource usage, and then work out what it would cost to run it
 properly on AWS and GCP.
 
-This project came before [Voyager](https://github.com/yourusername/voyager), where I actually deployed the
+This project came before [Voyager](https://github.com/DreXtrime/voyager), where I actually deployed the
 infrastructure to GCP. This is the analysis that informed those decisions.
 
 ---
